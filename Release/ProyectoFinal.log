@@ -1,0 +1,24 @@
+﻿  Generando código
+  0 of 65 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+C:\Users\marve\Desktop\Proyecto Final CG\ProyectoFinal\Release\ProyectoFinal.exe : fatal error LNK1281: No se puede generar la imagen SAFESEH.
